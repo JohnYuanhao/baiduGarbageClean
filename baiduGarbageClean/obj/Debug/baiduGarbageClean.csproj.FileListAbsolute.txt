@@ -7,3 +7,12 @@ E:\1\baiduGarbageClean\baiduGarbageClean\bin\Debug\baiduGarbageClean.pdb
 E:\1\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.exe
 E:\1\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.pdb
 E:\1\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.csprojResolveAssemblyReference.cache
+E:\baiduGarbageClean\baiduGarbageClean\bin\Debug\baiduGarbageClean.exe.config
+E:\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.exe
+E:\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.pdb
+E:\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.csprojResolveAssemblyReference.cache
+E:\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.Form1.resources
+E:\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.Properties.Resources.resources
+E:\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.csproj.GenerateResource.Cache
+E:\baiduGarbageClean\baiduGarbageClean\bin\Debug\baiduGarbageClean.exe
+E:\baiduGarbageClean\baiduGarbageClean\bin\Debug\baiduGarbageClean.pdb
