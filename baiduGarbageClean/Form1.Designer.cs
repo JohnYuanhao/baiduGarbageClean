@@ -38,12 +38,13 @@
             // webBrowser1
             // 
             this.webBrowser1.AllowWebBrowserDrop = false;
+            this.webBrowser1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.webBrowser1.IsWebBrowserContextMenuEnabled = false;
-            this.webBrowser1.Location = new System.Drawing.Point(-2, 54);
+            this.webBrowser1.Location = new System.Drawing.Point(0, 0);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.ScrollBarsEnabled = false;
-            this.webBrowser1.Size = new System.Drawing.Size(353, 339);
+            this.webBrowser1.Size = new System.Drawing.Size(352, 396);
             this.webBrowser1.TabIndex = 0;
             this.webBrowser1.Url = new System.Uri("https://pan.baidu.com/", System.UriKind.Absolute);
             this.webBrowser1.Visible = false;
@@ -61,7 +62,7 @@
             // userName
             // 
             this.userName.AutoSize = true;
-            this.userName.Location = new System.Drawing.Point(41, 23);
+            this.userName.Location = new System.Drawing.Point(28, 27);
             this.userName.Name = "userName";
             this.userName.Size = new System.Drawing.Size(41, 12);
             this.userName.TabIndex = 1;

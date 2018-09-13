@@ -16,3 +16,5 @@ E:\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.Properties.Re
 E:\baiduGarbageClean\baiduGarbageClean\obj\Debug\baiduGarbageClean.csproj.GenerateResource.Cache
 E:\baiduGarbageClean\baiduGarbageClean\bin\Debug\baiduGarbageClean.exe
 E:\baiduGarbageClean\baiduGarbageClean\bin\Debug\baiduGarbageClean.pdb
+E:\baiduGarbageClean\baiduGarbageClean\bin\Debug\Newtonsoft.Json.dll
+E:\baiduGarbageClean\baiduGarbageClean\bin\Debug\Newtonsoft.Json.xml
